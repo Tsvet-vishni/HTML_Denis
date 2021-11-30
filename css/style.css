@@ -1,0 +1,253 @@
+* {
+    margin: 0 auto;
+   padding: 0;
+}
+
+.container {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+header {
+    min-height: 90px;
+}
+
+nav {
+
+}
+nav ul {
+
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+.link_nav {
+    display: block; 
+    margin-top: 33px;
+    padding-right: 160px;
+    text-decoration: none;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+}
+
+.five_nav {
+    display: block;    
+    text-decoration: none;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+}
+
+nav ul li a:hover {
+    color: #070707;; }
+
+hr {
+    width: 940.6px;
+    height: 0px;
+    border: 1px solid #828282;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    margin-top: 32px;
+}
+
+.denis {
+    min-height: 189px;
+}
+
+.head {
+    display: flex;
+    align-items: flex-end;
+    min-height: 158px;
+}
+
+h1 {
+    display: inline-block;
+    width: 120px;
+    height: 120px;
+    font-family: Gilroy-Bold;
+    font-size: 47.3392px;
+    line-height: 59px;
+    padding-bottom: 0px;
+    margin-left: 0px;
+}
+
+
+.denis .denis_ux {
+    
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+    height: 44px;
+    width: 156px;
+    margin-bottom: 12px;
+
+
+}
+
+.denis .lan_denis {
+    margin-bottom: 3px;
+    transform: rotate(-90deg);
+    transform-origin: right;
+    margin-right: 5px;
+    margin-bottom: 70px;
+}
+
+.denis_img {
+    min-height: 387px;
+}
+
+.about {
+    height: 280px;
+    text-align: center;
+    margin-top: 104px;
+    padding: 120px 479px 107px 480px;
+    background-color: #F6F6F6;
+}
+
+.all_about {
+    min-height: 218px;
+}
+
+h2 {
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    text-align: center;
+    color: #070707;
+}
+
+.about p {
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.about .about_fp {
+    margin-top: 30px;
+}
+
+.about .about_p {
+    margin-top: 40px;
+}
+
+.skills {
+    min-height: 408px;
+    padding-top: 91px;
+    padding-bottom: 111px;
+}
+
+.skills_p {
+    text-align: center;
+    margin-top: 69px;
+    margin-bottom: 83px;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    text-align: center;
+    color: #070707;
+}
+
+.skills_icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 84px;
+}
+
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 89px;
+    width: 88px;
+}
+
+.logo_figma {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 88px;
+    width: 58px;
+}
+
+.skill_icons_p {
+    margin-top: 23px;
+    margin-bottom: 40px;
+    font-family: Gilroy-Bold;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+}
+
+.stars_last {
+    margin-top: 57px;
+}
+
+.Portfolio {
+    min-height: 1500px;
+    background-color: #F6F6F6;
+    padding: 112px 250px 96px 250px;
+}
+
+.Portfolio img {
+    width: 936px;
+    height: 510px;
+    margin: 47px 0 45px 0;
+}
+
+.Portfolio a {
+    display: block;
+    text-align: center;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    text-decoration-line: underline;
+    color: #070707;
+}
+footer {
+    padding: 114px 0 123px 0;
+}
+
+.contacts_p {
+    margin-top: 20px;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #070707;
+}
+
+footer button {
+    margin-top: 29px;
+    display: block;
+    width: 180px;
+    height: 42px;
+    background-color: black;
+    border-radius: 100px;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.icons_contacts {
+    margin-top: 81px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+footer .like_me {
+    margin-top: 45px;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+}
